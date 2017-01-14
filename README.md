@@ -17,6 +17,10 @@
 *     List all misspelled words
 *     Generate an output file that contains the student’s graded feedback
 
+
+## Video Walkthrough 
+<img src='http://imgur.com/a/y2v0j' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 ## Sample Files 
 
 **Sample Essay Files (saved as 11111111.txt)** 

@@ -4,7 +4,7 @@
 ##Background
 
  I wanted to create an auto-grader. There are many types of students who can be applied this application.
- Some are high-achieving High School students, some are Undergraduate students, and some are Graduate students. 
+ >Some are high-achieving High School students, some are Undergraduate students, and some are Graduate students. 
  I created a parent (base) Class that can be extended to provide functionality for various kinds of students. 
  I assumed that there will be name of the file containing a student’s essay (the student's’ ID number.txt) 
  Application grade the essay, by listing all the misspelled.

@@ -11,14 +11,14 @@ I assumed that there will be name of the file containing a student’s essay (th
 
 ##Objective
 
-•    Read in the file given
-•    Store each misspelled word
-•    List all misspelled words
-•    Generate an output file that contains the student’s graded feedback
+* •    Read in the file given
+* •    Store each misspelled word
+* •    List all misspelled words
+* •    Generate an output file that contains the student’s graded feedback
 
 ## Sample Files 
 
-**Sample Essay Files (saved as 11111111.txt)**
+**Sample Essay Files (saved as 11111111.txt)** 
  
 Graduate Student
 John Smith

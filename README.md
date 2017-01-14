@@ -19,7 +19,7 @@
 
 
 ## Video Walkthrough 
-<img src='http://imgur.com/a/y2v0j' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/5YDXyvA.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Sample Files 
 

@@ -36,7 +36,8 @@
     Jane Doe
     12345678
     Mechanical Engineering
-    Writing an essay is hard. If I had a nickel for every misspeled word in this essay I would have exactly one nickel.
+    Writing an essay is hard. 
+    If I had a nickel for every misspeled word in this essay I would have exactly one nickel.
 
 **Sample Essay File (saved as 99999999.txt)**
  

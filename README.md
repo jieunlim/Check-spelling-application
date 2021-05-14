@@ -23,7 +23,7 @@
 
 ## Sample Files 
 
-**Sample Essay Files (saved as 11111111.txt)** 
+** Sample Essay Files (saved as 11111111.txt)** 
  
 
     Graduate Student 
@@ -34,7 +34,7 @@
     This esasy is not very long. I hope my advisor won’t be agnry with me.
 
 
-**Sample Essay File (saved as 12345678.txt)**
+** Sample Essay File (saved as 12345678.txt)**
  
     Undergraduate Student
     Jane Doe
@@ -43,7 +43,7 @@
     Writing an essay is hard. 
     If I had a nickel for every misspeled word in this essay I would have exactly one nickel.
 
-**Sample Essay File (saved as 99999999.txt)**
+** Sample Essay File (saved as 99999999.txt)**
  
     HighSchool Student
     Allen Anderson
@@ -54,7 +54,7 @@
     Rough winds do shake the darling buds of May,
     And summer's leese hath all too short a date
 
-**Sample Output File (saved as 11111111_graded.txt)**
+** Sample Output File (saved as 11111111_graded.txt)**
  
     Graduate Student John Smith
     Student ID: 11111111
@@ -64,14 +64,14 @@
     (2)won’t
     (3)agnry
 
-**Sample Output File (saved as 12345678_graded.txt)**
+** Sample Output File (saved as 12345678_graded.txt)**
  
     Undergraduate Student Jane Doe
     Student ID: 12345678
     Major: Mechanical Engineering
     (1)misspeled
 
-**Sample Output File (saved as 99999999_graded.txt)**
+** Sample Output File (saved as 99999999_graded.txt)**
  
     High School Student Allen Anderson
     Student ID: 99999999
